@@ -12,8 +12,7 @@ import com.example.test.ExampleTemplate.ExampleModel;
 @Tag("example-template")
 @HtmlImport("src/example-template.html")
 public class ExampleTemplate extends PolymerTemplate<ExampleModel> {
-
-    /**
+	/**
      * Template model which defines the single "value" property.
      */
     public interface ExampleModel extends TemplateModel {
