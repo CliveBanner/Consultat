@@ -15,8 +15,8 @@ import com.vaadin.flow.router.Route;
 /**
  * The main view contains a button and a template element.
  */
-@HtmlImport("styles/shared-styles.html")
-@Route("")
+//@HtmlImport("styles/shared-styles.html")
+//@Route("")
 public class MainView extends VerticalLayout {
 	//
 	private CustomerService service;
